@@ -5,7 +5,7 @@ require("dotenv").config();
 const tasksRouter = require("./Router/tasks");
 
 const connectToDB = require("./connectdb");
-const testData = require("./data/test.json");
+const data = require("./data/test.json");
 
 const PORT = process.env.PORT || 3000;
 
@@ -24,7 +24,7 @@ connectToDB();
 
 app.use("/api/tasks", tasksRouter);
 app.use("/api/test", (req, res) => {
-  res.send({ testData });
+  res.send({ data });
 });
 
 app.listen(PORT, () => {
