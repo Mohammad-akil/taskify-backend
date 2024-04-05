@@ -3,7 +3,6 @@ const app = express();
 const cors = require("cors");
 require("dotenv").config();
 
-const userRouter = require("./Router/user");
 const tasksRouter = require("./Router/tasks");
 
 const connectToDB = require("./connectdb");
@@ -29,7 +28,7 @@ app.use(
 connectToDB();
 
 //routers
-app.use("/api/users", userRouter);
+
 app.use("/api/tasks", tasksRouter);
 
 app.listen(PORT, () => {
