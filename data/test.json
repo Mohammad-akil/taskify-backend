@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "type_name": "Fresh Fruits and Vegetables",
+    "image": "https://imgs.search.brave.com/dUq5hq6s12TzctM7ErpnENX2qiNTC1l1KW__fTlC3hA/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pbWcu/bG92ZXBpay5jb20v/ZWxlbWVudC80MDEx/Ny81NzAxLnBuZ184/NjAucG5n",
+    "color": "53B175"
+  },
+  {
+    "id": 2,
+    "type_name": "Cooking Oil and ghee",
+    "image": "https://imgs.search.brave.com/yq3xhAnSIPCFtxEEbZw50UzYKOvJNpgIjWfveExscBM/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9pY29u/cy52ZXJ5aWNvbi5j/b20vcG5nL28vY29t/bWVyY2Utc2hvcHBp/bmcvY2FudGVlbi9j/b29raW5nLW9pbC5w/bmc",
+    "color": "F8A44C"
+  },
+  {
+    "id": 3,
+    "type_name": "Meat and Fish",
+    "image": "https://imgs.search.brave.com/XJphBddJS86S7VKLqEwE76mW5VE_HPlW-jML6OS2UmI/rs:fit:500:0:0/g:ce/aHR0cHM6Ly93d3cu/cG5nbWFydC5jb20v/ZmlsZXMvMS9SYXct/TWVhdC1QTkctSW1h/Z2UucG5n",
+    "color": "F7A593"
+  },
+  {
+    "id": 4,
+    "type_name": "Bakery and Snacks",
+    "image": "https://imgs.search.brave.com/Q4WNcAr9T3g_dYtld65F_3lLI8GwbSMSbBbGL916QhM/rs:fit:500:0:0/g:ce/aHR0cHM6Ly90b3Bw/bmcuY29tL3VwbG9h/ZHMvcHJldmlldy9z/bmFja3MtMTE1Mjgz/Mjc2OTVibmhxYXVr/MzdrLnBuZw",
+    "color": "D3B0E0"
+  },
+  {
+    "id": 5,
+    "type_name": "Dairy and Eggs",
+    "image": "https://imgs.search.brave.com/ZjwqPBZjvydwvKKmwsRva0VIx5W20JHYqzCcRopfFxI/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMudmVjdGVlenku/Y29tL3N5c3RlbS9y/ZXNvdXJjZXMvdGh1/bWJuYWlscy8wMTkv/OTA4LzMxNy9zbWFs/bC9mcmVzaC1jaGlj/a2VuLWVnZ3MtaW4t/d292ZW4tYmFtYm9v/LWJhc2tldC1pc29s/YXRlZC13aXRoLWNs/aXBwaW5nLXBhdGgt/aW4tZmlsZS1mb3Jt/YXQtY2xvc2UtdXAt/d2l0aC1mdWxsLWZv/Y3VzLXBuZy5wbmc",
+    "color": "FDE598"
+  },
+  {
+    "id": 6,
+    "type_name": "Beverage",
+    "image": "https://imgs.search.brave.com/5NzHbgD6pMzHtgo8sIM1Ko27bXITUySARwV3pyplLz8/rs:fit:860:0:0/g:ce/aHR0cHM6Ly90b3Bw/bmcuY29tL3VwbG9h/ZHMvcHJldmlldy9y/ZWFsLWp1aWNlLWZy/ZWUtcGljdHVyZXMt/MTE1Mzg2ODIwMzFo/NjZ4cXhudGFjLnBu/Zw",
+    "color": "B7DFF5"
+  }
+]
