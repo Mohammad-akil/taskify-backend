@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "product_name": "Banana",
+      "description": "Indulge in nature's perfect snack with our premium quality bananas! Bursting with essential nutrients and natural sweetness, our bananas are handpicked at peak ripeness to ensure optimal flavor and freshness. Sourced from lush tropical plantations, each banana is carefully selected to deliver superior quality to your doorstep.",
+      "quantity": 42,
+      "price": 4.99,
+      "image": "https://imgs.search.brave.com/A7ffOovNY4FYu8hGAlGGyHzLmi1n-UEUjEDS3tjh3qw/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvMTM2/ODY2MDI4MC9waG90/by9pbWFnZS1vZi1i/YW5hbmEtYWdhaW5z/dC13aGl0ZS1iYWNr/Z3JvdW5kLmpwZz9z/PTYxMng2MTImdz0w/Jms9MjAmYz1vaHFm/TGI5NzJ1TWhSbEpK/UllLS1dpUl8xaTVx/aUdSQWRQQk9EemRy/M2dJPQ",
+      "category_id": 1
+    },
+    {
+      "id": 2,
+      "product_name": "Apple",
+      "description": "Discover the crisp, refreshing taste of our handpicked apples, straight from orchards bursting with natural goodness! With a satisfying crunch and juicy sweetness in every bite, our apples are meticulously selected to ensure the highest quality for you and your family.",
+      "quantity": 28,
+      "price": 7.99,
+      "image": "https://imgs.search.brave.com/TjnLTIiAxkO7uLRXobcdtxfWP9uqU-mUYF13l7iT-mQ/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9zdDUu/ZGVwb3NpdHBob3Rv/cy5jb20vMTAyMDgw/NC82NTY5NC9pLzQ1/MC9kZXBvc2l0cGhv/dG9zXzY1Njk0Mzgw/OC1zdG9jay1waG90/by1yaXBlLXBlcmZl/Y3QtcmVkLWFwcGxl/LWdyZWVuLmpwZw",
+      "category_id": 1
+    },
+    {
+      "id": 5,
+      "product_name": "Orange",
+      "description": "Savor the taste of sunshine with our succulent oranges, handpicked from orchards bathed in warm, golden rays! Each orange is a testament to nature's bounty, delivering a burst of sweet, tangy flavor and an invigorating burst of freshness with every juicy bite.",
+      "quantity": 36,
+      "price": 3.39,
+      "image": "https://imgs.search.brave.com/S6FktV2wkosdPIZSEd9p1B60RhmcsOLdz4PPn1yD7Yo/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvMTIw/MjQ4NTI0NC9waG90/by9jbGVtZW50aW5l/LXdpdGgtbGVhZi1h/Z2FpbnN0LXdoaXRl/LWJhY2tncm91bmQu/anBnP3M9NjEyeDYx/MiZ3PTAmaz0yMCZj/PUFxVUExYnl3M3hN/MUdrUlYtUWNuaG1E/SDRpUUF5bm5ETE11/bEtWWFNNdTg9",
+      "category_id": 1
+    },
+    {
+      "id": 8,
+      "product_name": "Kiwi",
+      "description": "Escape the heat and indulge in the smooth, refreshing taste of our irresistible iced coffee, meticulously crafted for coffee lovers seeking a cool pick-me-up! Made from premium Arabica beans, our cold brew coffee is steeped to perfection for hours, extracting rich flavors and a naturally sweet profile without any bitterness.",
+      "quantity": 14,
+      "price": 19.99,
+      "image": "https://imgs.search.brave.com/WNX24A4R3iOY6usf1QnLXYbPNft5iqprx_6amgVd1eY/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvMTMx/NjM5MDAzMy9waG90/by9zbGljZS1vZi1r/aXdpLWZydWl0LWlz/b2xhdGVkLW9uLXdo/aXRlLWJhY2tncm91/bmQuanBnP3M9NjEy/eDYxMiZ3PTAmaz0y/MCZjPUdFNVNWMmpC/bkdtZ2ZEZU4xc1RV/Q0ZJSmVqQkZ3M0dJ/QW1MbGxkaW5MbzQ9",
+      "category_id": 1
+    },
+    {
+      "id": 9,
+      "product_name": "Pineapple",
+      "description": "Escape the heat and indulge in the ld brew coffee is steeped to perfection for hours, extracting rich flavors and a naturally sweet profile without any bitterness.",
+      "quantity": 14,
+      "price": 25.99,
+      "image": "https://imgs.search.brave.com/bi-rt-nOhofMIiTZzmduSZNtdcBuyrZj5rMDoHsB2zg/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvMTcy/ODYyNDc0L3Bob3Rv/L3BpbmVhcHBsZS1h/LXJpcGUtZnJlc2gt/ZnJ1aXQtZm9vZC13/aG9sZS1pc29sYXRl/ZC1vbi13aGl0ZS5q/cGc_Yj0xJnM9MTcw/NjY3YSZ3PTAmaz0y/MCZjPVEtNlFyR1Bk/c0V6S0psQTVYVS1V/TnRlWFFsaW9nOTZ1/Uy1XMVRiblRfQ2c9",
+      "category_id": 1
+    },
+    {
+      "id": 10,
+      "product_name": "Pear",
+      "description": "lge in nature's perfect snack with our premium quality bananas! Bursting with essential nutrients and natural sweetness, our bananas are handpicked at peak ripeness to ensure optimal flav",
+      "quantity": 14,
+      "price": 5.99,
+      "image": "https://imgs.search.brave.com/ZNfI2UqjSmqAD4npZCDAD--4Ohkim2GgHU72yyEXlZk/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZS5zaHV0dGVyc3Rv/Y2suY29tL2ltYWdl/LXBob3RvL3BlYXJz/LWlzb2xhdGVkLW9u/LXdoaXRlLWJhY2tn/cm91bmQtMjYwbnct/MTA0NzU0Njc3Lmpw/Zw",
+      "category_id": 1
+    },
+    {
+      "id": 11,
+      "product_name": "Cherry",
+      "description": "Discover the crisp, refreshing taste of our handpicked apples, straight from orchards bursting with natural goodness! With a satisfying crunch and juicy sweetness in every bite, our apples are meticulously selected to ensure the highest quality for you and your family",
+      "quantity": 14,
+      "price": 6.99,
+      "image": "https://imgs.search.brave.com/XeToCtZdgBCXSR76omyj3wNctSd7dkjH2vlC0Yy6Ivw/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vcGhvdG9z/L2NoZXJyeS13aXRo/LWxlYXZlcy1pc29s/YXRlZC1vbi13aGl0/ZS1iYWNrZ3JvdW5k/LXBpY3R1cmUtaWQ1/MzMzODEzMDM_Yj0x/Jms9MjAmbT01MzMz/ODEzMDMmcz0xNzA2/NjdhJnc9MCZoPWpq/X3ZHcXhhb2w2X0Yt/X1VXMFlPa0RCS3lw/UklqQUZpdEJrNUlJ/ZTEtQmM9",
+      "category_id": 1
+    },
+    {
+      "id": 12,
+      "product_name": "Raspberry",
+      "description": "Discover the crisp, refreshing taste of our handpicked apples, straight from orchards bursting with natural goodness! With a satisfying crunch and juicy sweetness in every bite, our apples are meticulously selected to ensure the highest quality for you and your family",
+      "quantity": 14,
+      "price": 60.99,
+      "image": "https://imgs.search.brave.com/eh1-4FaCHGXWcGz98gE67IpHsawfsoPjTL_kX0RCsDQ/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvMTg0/MzYxMTI0L3BsL3pk/aiVDNCU5OWNpZS9t/YWxpbmEuanBnP2I9/MSZzPTE3MDY2N2Em/dz0wJms9MjAmYz0t/VTdRNHZzN1RQa3hV/NVYtbzFwZTFkcFhx/NjBydjRpMUxjV1Fv/RFJjRjhzPQ",
+      "category_id": 1
+    }
+  ]
+}

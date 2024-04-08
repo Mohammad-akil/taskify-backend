@@ -6,6 +6,7 @@ const tasksRouter = require("./Router/tasks");
 
 const connectToDB = require("./connectdb");
 const data = require("./data/test.json");
+const test2data = require("./data/test2.json");
 
 const PORT = process.env.PORT || 3000;
 
@@ -25,6 +26,10 @@ connectToDB();
 app.use("/api/tasks", tasksRouter);
 app.use("/api/test", (req, res) => {
   res.send({ data });
+});
+app.use("/api/test2", (req, res) => {
+  const data = test2data.data;
+  res.json({ data });
 });
 
 app.listen(PORT, () => {
