@@ -1,5 +1,6 @@
 const express = require("express");
 const app = express();
+const cors = require("cors");
 require("dotenv").config();
 
 const tasksRouter = require("./Router/tasks");
@@ -17,13 +18,20 @@ app.use(
     extended: true,
   })
 );
+app.use(
+  cors({
+    methods: ["GET", "POST", "PUT", "PATCH", "DELETE"],
+    origin: "*",
+  })
+);
 
 //connection to mongoDb
 connectToDB();
 
 //routers
-
 app.use("/api/tasks", tasksRouter);
+
+//jayesh endpoints
 app.use("/api/test", (req, res) => {
   res.send({ data });
 });
